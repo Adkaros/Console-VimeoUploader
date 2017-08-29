@@ -1,0 +1,380 @@
+C:\C#\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\VimeoConsoleUpload.exe.config
+C:\C#\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\VimeoConsoleUpload.exe
+C:\C#\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\VimeoConsoleUpload.pdb
+C:\C#\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\BouncyCastle.Crypto.dll
+C:\C#\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\DotNetOpenAuth.Core.dll
+C:\C#\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\DotNetOpenAuth.Core.UI.dll
+C:\C#\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\DotNetOpenAuth.InfoCard.dll
+C:\C#\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\DotNetOpenAuth.InfoCard.UI.dll
+C:\C#\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\DotNetOpenAuth.OAuth.Common.dll
+C:\C#\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\DotNetOpenAuth.OAuth.Consumer.dll
+C:\C#\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\DotNetOpenAuth.OAuth.dll
+C:\C#\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\DotNetOpenAuth.OAuth.ServiceProvider.dll
+C:\C#\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\DotNetOpenAuth.OAuth2.AuthorizationServer.dll
+C:\C#\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\DotNetOpenAuth.OAuth2.Client.dll
+C:\C#\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\DotNetOpenAuth.OAuth2.Client.UI.dll
+C:\C#\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\DotNetOpenAuth.OAuth2.ClientAuthorization.dll
+C:\C#\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\DotNetOpenAuth.OAuth2.dll
+C:\C#\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\DotNetOpenAuth.OAuth2.ResourceServer.dll
+C:\C#\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\DotNetOpenAuth.OpenId.dll
+C:\C#\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\DotNetOpenAuth.OpenId.Provider.dll
+C:\C#\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\DotNetOpenAuth.OpenId.Provider.UI.dll
+C:\C#\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\C#\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\DotNetOpenAuth.OpenId.RelyingParty.UI.dll
+C:\C#\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\DotNetOpenAuth.OpenId.UI.dll
+C:\C#\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\DotNetOpenAuth.OpenIdInfoCard.UI.dll
+C:\C#\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\DotNetOpenAuth.OpenIdOAuth.dll
+C:\C#\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\Google.Apis.Auth.dll
+C:\C#\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\Google.Apis.Auth.PlatformServices.dll
+C:\C#\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\Google.Apis.Core.dll
+C:\C#\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\Google.Apis.dll
+C:\C#\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\Google.Apis.Oauth2.v2.dll
+C:\C#\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\Google.Apis.PlatformServices.dll
+C:\C#\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\log4net.dll
+C:\C#\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\Microsoft.Threading.Tasks.dll
+C:\C#\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\C#\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\Microsoft.Threading.Tasks.Extensions.dll
+C:\C#\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\Newtonsoft.Json.dll
+C:\C#\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\RestSharp.dll
+C:\C#\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\System.Net.Http.Extensions.dll
+C:\C#\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\System.Net.Http.Primitives.dll
+C:\C#\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\VimeoDotNet.dll
+C:\C#\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\Zlib.Portable.dll
+C:\C#\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\Org.Mentalis.Security.Cryptography.dll
+C:\C#\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\Mono.Math.dll
+C:\C#\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\BouncyCastle.Crypto.pdb
+C:\C#\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\DotNetOpenAuth.Core.xml
+C:\C#\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\DotNetOpenAuth.Core.UI.xml
+C:\C#\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\DotNetOpenAuth.InfoCard.xml
+C:\C#\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\DotNetOpenAuth.InfoCard.UI.xml
+C:\C#\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\DotNetOpenAuth.OAuth.xml
+C:\C#\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\DotNetOpenAuth.OAuth.Common.xml
+C:\C#\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\DotNetOpenAuth.OAuth.Consumer.xml
+C:\C#\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\DotNetOpenAuth.OAuth.ServiceProvider.xml
+C:\C#\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\DotNetOpenAuth.OAuth2.xml
+C:\C#\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\DotNetOpenAuth.OAuth2.AuthorizationServer.xml
+C:\C#\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\DotNetOpenAuth.OAuth2.Client.xml
+C:\C#\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\DotNetOpenAuth.OAuth2.Client.UI.xml
+C:\C#\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\DotNetOpenAuth.OAuth2.ClientAuthorization.xml
+C:\C#\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\DotNetOpenAuth.OAuth2.ResourceServer.xml
+C:\C#\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\DotNetOpenAuth.OpenId.xml
+C:\C#\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\DotNetOpenAuth.OpenId.Provider.xml
+C:\C#\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\DotNetOpenAuth.OpenId.Provider.UI.xml
+C:\C#\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\C#\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\DotNetOpenAuth.OpenId.RelyingParty.UI.xml
+C:\C#\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\DotNetOpenAuth.OpenId.UI.xml
+C:\C#\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\DotNetOpenAuth.OpenIdInfoCard.UI.xml
+C:\C#\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\DotNetOpenAuth.OpenIdOAuth.xml
+C:\C#\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\Google.Apis.pdb
+C:\C#\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\Google.Apis.xml
+C:\C#\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\Google.Apis.Auth.pdb
+C:\C#\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\Google.Apis.Auth.xml
+C:\C#\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\Google.Apis.Auth.PlatformServices.pdb
+C:\C#\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\Google.Apis.Auth.PlatformServices.xml
+C:\C#\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\Google.Apis.Core.pdb
+C:\C#\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\Google.Apis.Core.xml
+C:\C#\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\Google.Apis.Oauth2.v2.pdb
+C:\C#\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\Google.Apis.Oauth2.v2.xml
+C:\C#\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\Google.Apis.PlatformServices.pdb
+C:\C#\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\Google.Apis.PlatformServices.xml
+C:\C#\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\log4net.xml
+C:\C#\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\Microsoft.Threading.Tasks.xml
+C:\C#\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\Microsoft.Threading.Tasks.Extensions.xml
+C:\C#\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\C#\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\Newtonsoft.Json.xml
+C:\C#\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\RestSharp.xml
+C:\C#\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\System.Net.Http.Extensions.xml
+C:\C#\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\System.Net.Http.Primitives.xml
+C:\C#\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\VimeoDotNet.xml
+C:\C#\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\Zlib.Portable.xml
+C:\C#\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\Org.Mentalis.Security.Cryptography.xml
+C:\C#\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\Mono.Math.xml
+C:\C#\VimeoConsoleUpload\VimeoConsoleUpload\obj\Release\VimeoConsoleUpload.exe
+C:\C#\VimeoConsoleUpload\VimeoConsoleUpload\obj\Release\VimeoConsoleUpload.pdb
+C:\Users\M1\Desktop\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\VimeoConsoleUpload.exe.config
+C:\Users\M1\Desktop\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\VimeoConsoleUpload.exe
+C:\Users\M1\Desktop\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\VimeoConsoleUpload.pdb
+C:\Users\M1\Desktop\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\M1\Desktop\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\DotNetOpenAuth.Core.dll
+C:\Users\M1\Desktop\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\DotNetOpenAuth.Core.UI.dll
+C:\Users\M1\Desktop\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\DotNetOpenAuth.InfoCard.dll
+C:\Users\M1\Desktop\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\DotNetOpenAuth.InfoCard.UI.dll
+C:\Users\M1\Desktop\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\DotNetOpenAuth.OAuth.Common.dll
+C:\Users\M1\Desktop\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\M1\Desktop\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\DotNetOpenAuth.OAuth.dll
+C:\Users\M1\Desktop\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\DotNetOpenAuth.OAuth.ServiceProvider.dll
+C:\Users\M1\Desktop\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\DotNetOpenAuth.OAuth2.AuthorizationServer.dll
+C:\Users\M1\Desktop\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\DotNetOpenAuth.OAuth2.Client.dll
+C:\Users\M1\Desktop\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\DotNetOpenAuth.OAuth2.Client.UI.dll
+C:\Users\M1\Desktop\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\DotNetOpenAuth.OAuth2.ClientAuthorization.dll
+C:\Users\M1\Desktop\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\DotNetOpenAuth.OAuth2.dll
+C:\Users\M1\Desktop\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\DotNetOpenAuth.OAuth2.ResourceServer.dll
+C:\Users\M1\Desktop\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\DotNetOpenAuth.OpenId.dll
+C:\Users\M1\Desktop\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\DotNetOpenAuth.OpenId.Provider.dll
+C:\Users\M1\Desktop\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\DotNetOpenAuth.OpenId.Provider.UI.dll
+C:\Users\M1\Desktop\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\M1\Desktop\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\DotNetOpenAuth.OpenId.RelyingParty.UI.dll
+C:\Users\M1\Desktop\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\DotNetOpenAuth.OpenId.UI.dll
+C:\Users\M1\Desktop\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\DotNetOpenAuth.OpenIdInfoCard.UI.dll
+C:\Users\M1\Desktop\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\DotNetOpenAuth.OpenIdOAuth.dll
+C:\Users\M1\Desktop\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\Google.Apis.Auth.dll
+C:\Users\M1\Desktop\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\Google.Apis.Auth.PlatformServices.dll
+C:\Users\M1\Desktop\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\Google.Apis.Core.dll
+C:\Users\M1\Desktop\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\Google.Apis.dll
+C:\Users\M1\Desktop\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\Google.Apis.Oauth2.v2.dll
+C:\Users\M1\Desktop\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\Google.Apis.PlatformServices.dll
+C:\Users\M1\Desktop\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\log4net.dll
+C:\Users\M1\Desktop\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\Microsoft.Threading.Tasks.dll
+C:\Users\M1\Desktop\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\M1\Desktop\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\M1\Desktop\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\Newtonsoft.Json.dll
+C:\Users\M1\Desktop\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\RestSharp.dll
+C:\Users\M1\Desktop\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\System.Net.Http.Extensions.dll
+C:\Users\M1\Desktop\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\System.Net.Http.Primitives.dll
+C:\Users\M1\Desktop\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\VimeoDotNet.dll
+C:\Users\M1\Desktop\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\Zlib.Portable.dll
+C:\Users\M1\Desktop\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\Org.Mentalis.Security.Cryptography.dll
+C:\Users\M1\Desktop\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\Mono.Math.dll
+C:\Users\M1\Desktop\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\BouncyCastle.Crypto.pdb
+C:\Users\M1\Desktop\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\DotNetOpenAuth.Core.xml
+C:\Users\M1\Desktop\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\DotNetOpenAuth.Core.UI.xml
+C:\Users\M1\Desktop\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\DotNetOpenAuth.InfoCard.xml
+C:\Users\M1\Desktop\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\DotNetOpenAuth.InfoCard.UI.xml
+C:\Users\M1\Desktop\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\DotNetOpenAuth.OAuth.xml
+C:\Users\M1\Desktop\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\DotNetOpenAuth.OAuth.Common.xml
+C:\Users\M1\Desktop\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\M1\Desktop\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\DotNetOpenAuth.OAuth.ServiceProvider.xml
+C:\Users\M1\Desktop\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\DotNetOpenAuth.OAuth2.xml
+C:\Users\M1\Desktop\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\DotNetOpenAuth.OAuth2.AuthorizationServer.xml
+C:\Users\M1\Desktop\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\DotNetOpenAuth.OAuth2.Client.xml
+C:\Users\M1\Desktop\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\DotNetOpenAuth.OAuth2.Client.UI.xml
+C:\Users\M1\Desktop\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\DotNetOpenAuth.OAuth2.ClientAuthorization.xml
+C:\Users\M1\Desktop\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\DotNetOpenAuth.OAuth2.ResourceServer.xml
+C:\Users\M1\Desktop\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\DotNetOpenAuth.OpenId.xml
+C:\Users\M1\Desktop\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\DotNetOpenAuth.OpenId.Provider.xml
+C:\Users\M1\Desktop\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\DotNetOpenAuth.OpenId.Provider.UI.xml
+C:\Users\M1\Desktop\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\M1\Desktop\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\DotNetOpenAuth.OpenId.RelyingParty.UI.xml
+C:\Users\M1\Desktop\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\DotNetOpenAuth.OpenId.UI.xml
+C:\Users\M1\Desktop\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\DotNetOpenAuth.OpenIdInfoCard.UI.xml
+C:\Users\M1\Desktop\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\DotNetOpenAuth.OpenIdOAuth.xml
+C:\Users\M1\Desktop\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\Google.Apis.pdb
+C:\Users\M1\Desktop\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\Google.Apis.xml
+C:\Users\M1\Desktop\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\Google.Apis.Auth.pdb
+C:\Users\M1\Desktop\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\Google.Apis.Auth.xml
+C:\Users\M1\Desktop\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\Google.Apis.Auth.PlatformServices.pdb
+C:\Users\M1\Desktop\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\Google.Apis.Auth.PlatformServices.xml
+C:\Users\M1\Desktop\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\Google.Apis.Core.pdb
+C:\Users\M1\Desktop\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\Google.Apis.Core.xml
+C:\Users\M1\Desktop\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\Google.Apis.Oauth2.v2.pdb
+C:\Users\M1\Desktop\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\Google.Apis.Oauth2.v2.xml
+C:\Users\M1\Desktop\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\Google.Apis.PlatformServices.pdb
+C:\Users\M1\Desktop\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\Google.Apis.PlatformServices.xml
+C:\Users\M1\Desktop\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\log4net.xml
+C:\Users\M1\Desktop\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\Microsoft.Threading.Tasks.xml
+C:\Users\M1\Desktop\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\M1\Desktop\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\M1\Desktop\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\Newtonsoft.Json.xml
+C:\Users\M1\Desktop\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\RestSharp.xml
+C:\Users\M1\Desktop\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\System.Net.Http.Extensions.xml
+C:\Users\M1\Desktop\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\System.Net.Http.Primitives.xml
+C:\Users\M1\Desktop\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\VimeoDotNet.xml
+C:\Users\M1\Desktop\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\Zlib.Portable.xml
+C:\Users\M1\Desktop\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\Org.Mentalis.Security.Cryptography.xml
+C:\Users\M1\Desktop\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\Mono.Math.xml
+C:\Users\M1\Desktop\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\obj\Release\VimeoConsoleUpload.exe
+C:\Users\M1\Desktop\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\obj\Release\VimeoConsoleUpload.pdb
+C:\Users\M1\Desktop\Archived\Back-Up\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\VimeoConsoleUpload.exe.config
+C:\Users\M1\Desktop\Archived\Back-Up\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\obj\Release\VimeoConsoleUpload.exe
+C:\Users\M1\Desktop\Archived\Back-Up\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\obj\Release\VimeoConsoleUpload.pdb
+C:\Users\M1\Desktop\Archived\Back-Up\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\VimeoConsoleUpload.exe
+C:\Users\M1\Desktop\Archived\Back-Up\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\VimeoConsoleUpload.pdb
+C:\Users\M1\Desktop\Archived\Back-Up\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\M1\Desktop\Archived\Back-Up\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\DotNetOpenAuth.Core.dll
+C:\Users\M1\Desktop\Archived\Back-Up\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\DotNetOpenAuth.Core.UI.dll
+C:\Users\M1\Desktop\Archived\Back-Up\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\DotNetOpenAuth.InfoCard.dll
+C:\Users\M1\Desktop\Archived\Back-Up\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\DotNetOpenAuth.InfoCard.UI.dll
+C:\Users\M1\Desktop\Archived\Back-Up\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\DotNetOpenAuth.OAuth.Common.dll
+C:\Users\M1\Desktop\Archived\Back-Up\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\M1\Desktop\Archived\Back-Up\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\DotNetOpenAuth.OAuth.dll
+C:\Users\M1\Desktop\Archived\Back-Up\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\DotNetOpenAuth.OAuth.ServiceProvider.dll
+C:\Users\M1\Desktop\Archived\Back-Up\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\DotNetOpenAuth.OAuth2.AuthorizationServer.dll
+C:\Users\M1\Desktop\Archived\Back-Up\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\DotNetOpenAuth.OAuth2.Client.dll
+C:\Users\M1\Desktop\Archived\Back-Up\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\DotNetOpenAuth.OAuth2.Client.UI.dll
+C:\Users\M1\Desktop\Archived\Back-Up\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\DotNetOpenAuth.OAuth2.ClientAuthorization.dll
+C:\Users\M1\Desktop\Archived\Back-Up\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\DotNetOpenAuth.OAuth2.dll
+C:\Users\M1\Desktop\Archived\Back-Up\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\DotNetOpenAuth.OAuth2.ResourceServer.dll
+C:\Users\M1\Desktop\Archived\Back-Up\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\DotNetOpenAuth.OpenId.dll
+C:\Users\M1\Desktop\Archived\Back-Up\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\DotNetOpenAuth.OpenId.Provider.dll
+C:\Users\M1\Desktop\Archived\Back-Up\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\DotNetOpenAuth.OpenId.Provider.UI.dll
+C:\Users\M1\Desktop\Archived\Back-Up\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\M1\Desktop\Archived\Back-Up\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\DotNetOpenAuth.OpenId.RelyingParty.UI.dll
+C:\Users\M1\Desktop\Archived\Back-Up\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\DotNetOpenAuth.OpenId.UI.dll
+C:\Users\M1\Desktop\Archived\Back-Up\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\DotNetOpenAuth.OpenIdInfoCard.UI.dll
+C:\Users\M1\Desktop\Archived\Back-Up\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\DotNetOpenAuth.OpenIdOAuth.dll
+C:\Users\M1\Desktop\Archived\Back-Up\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\Google.Apis.Auth.dll
+C:\Users\M1\Desktop\Archived\Back-Up\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\Google.Apis.Auth.PlatformServices.dll
+C:\Users\M1\Desktop\Archived\Back-Up\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\Google.Apis.Core.dll
+C:\Users\M1\Desktop\Archived\Back-Up\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\Google.Apis.dll
+C:\Users\M1\Desktop\Archived\Back-Up\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\Google.Apis.Oauth2.v2.dll
+C:\Users\M1\Desktop\Archived\Back-Up\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\Google.Apis.PlatformServices.dll
+C:\Users\M1\Desktop\Archived\Back-Up\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\log4net.dll
+C:\Users\M1\Desktop\Archived\Back-Up\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\Microsoft.Threading.Tasks.dll
+C:\Users\M1\Desktop\Archived\Back-Up\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\M1\Desktop\Archived\Back-Up\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\M1\Desktop\Archived\Back-Up\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\Newtonsoft.Json.dll
+C:\Users\M1\Desktop\Archived\Back-Up\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\RestSharp.dll
+C:\Users\M1\Desktop\Archived\Back-Up\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\System.Net.Http.Extensions.dll
+C:\Users\M1\Desktop\Archived\Back-Up\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\System.Net.Http.Primitives.dll
+C:\Users\M1\Desktop\Archived\Back-Up\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\VimeoDotNet.dll
+C:\Users\M1\Desktop\Archived\Back-Up\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\Zlib.Portable.dll
+C:\Users\M1\Desktop\Archived\Back-Up\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\Org.Mentalis.Security.Cryptography.dll
+C:\Users\M1\Desktop\Archived\Back-Up\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\Mono.Math.dll
+C:\Users\M1\Desktop\Archived\Back-Up\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\BouncyCastle.Crypto.pdb
+C:\Users\M1\Desktop\Archived\Back-Up\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\DotNetOpenAuth.Core.xml
+C:\Users\M1\Desktop\Archived\Back-Up\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\DotNetOpenAuth.Core.UI.xml
+C:\Users\M1\Desktop\Archived\Back-Up\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\DotNetOpenAuth.InfoCard.xml
+C:\Users\M1\Desktop\Archived\Back-Up\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\DotNetOpenAuth.InfoCard.UI.xml
+C:\Users\M1\Desktop\Archived\Back-Up\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\DotNetOpenAuth.OAuth.xml
+C:\Users\M1\Desktop\Archived\Back-Up\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\DotNetOpenAuth.OAuth.Common.xml
+C:\Users\M1\Desktop\Archived\Back-Up\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\M1\Desktop\Archived\Back-Up\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\DotNetOpenAuth.OAuth.ServiceProvider.xml
+C:\Users\M1\Desktop\Archived\Back-Up\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\DotNetOpenAuth.OAuth2.xml
+C:\Users\M1\Desktop\Archived\Back-Up\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\DotNetOpenAuth.OAuth2.AuthorizationServer.xml
+C:\Users\M1\Desktop\Archived\Back-Up\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\DotNetOpenAuth.OAuth2.Client.xml
+C:\Users\M1\Desktop\Archived\Back-Up\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\DotNetOpenAuth.OAuth2.Client.UI.xml
+C:\Users\M1\Desktop\Archived\Back-Up\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\DotNetOpenAuth.OAuth2.ClientAuthorization.xml
+C:\Users\M1\Desktop\Archived\Back-Up\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\DotNetOpenAuth.OAuth2.ResourceServer.xml
+C:\Users\M1\Desktop\Archived\Back-Up\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\DotNetOpenAuth.OpenId.xml
+C:\Users\M1\Desktop\Archived\Back-Up\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\DotNetOpenAuth.OpenId.Provider.xml
+C:\Users\M1\Desktop\Archived\Back-Up\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\DotNetOpenAuth.OpenId.Provider.UI.xml
+C:\Users\M1\Desktop\Archived\Back-Up\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\M1\Desktop\Archived\Back-Up\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\DotNetOpenAuth.OpenId.RelyingParty.UI.xml
+C:\Users\M1\Desktop\Archived\Back-Up\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\DotNetOpenAuth.OpenId.UI.xml
+C:\Users\M1\Desktop\Archived\Back-Up\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\DotNetOpenAuth.OpenIdInfoCard.UI.xml
+C:\Users\M1\Desktop\Archived\Back-Up\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\DotNetOpenAuth.OpenIdOAuth.xml
+C:\Users\M1\Desktop\Archived\Back-Up\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\Google.Apis.pdb
+C:\Users\M1\Desktop\Archived\Back-Up\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\Google.Apis.xml
+C:\Users\M1\Desktop\Archived\Back-Up\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\Google.Apis.Auth.pdb
+C:\Users\M1\Desktop\Archived\Back-Up\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\Google.Apis.Auth.xml
+C:\Users\M1\Desktop\Archived\Back-Up\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\Google.Apis.Auth.PlatformServices.pdb
+C:\Users\M1\Desktop\Archived\Back-Up\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\Google.Apis.Auth.PlatformServices.xml
+C:\Users\M1\Desktop\Archived\Back-Up\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\Google.Apis.Core.pdb
+C:\Users\M1\Desktop\Archived\Back-Up\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\Google.Apis.Core.xml
+C:\Users\M1\Desktop\Archived\Back-Up\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\Google.Apis.Oauth2.v2.pdb
+C:\Users\M1\Desktop\Archived\Back-Up\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\Google.Apis.Oauth2.v2.xml
+C:\Users\M1\Desktop\Archived\Back-Up\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\Google.Apis.PlatformServices.pdb
+C:\Users\M1\Desktop\Archived\Back-Up\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\Google.Apis.PlatformServices.xml
+C:\Users\M1\Desktop\Archived\Back-Up\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\log4net.xml
+C:\Users\M1\Desktop\Archived\Back-Up\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\Microsoft.Threading.Tasks.xml
+C:\Users\M1\Desktop\Archived\Back-Up\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\M1\Desktop\Archived\Back-Up\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\M1\Desktop\Archived\Back-Up\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\Newtonsoft.Json.xml
+C:\Users\M1\Desktop\Archived\Back-Up\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\RestSharp.xml
+C:\Users\M1\Desktop\Archived\Back-Up\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\System.Net.Http.Extensions.xml
+C:\Users\M1\Desktop\Archived\Back-Up\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\System.Net.Http.Primitives.xml
+C:\Users\M1\Desktop\Archived\Back-Up\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\VimeoDotNet.xml
+C:\Users\M1\Desktop\Archived\Back-Up\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\Zlib.Portable.xml
+C:\Users\M1\Desktop\Archived\Back-Up\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\Org.Mentalis.Security.Cryptography.xml
+C:\Users\M1\Desktop\Archived\Back-Up\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\Mono.Math.xml
+C:\Users\M1\Desktop\Archived\Back-Up\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\obj\Release\VimeoConsoleUpload.csprojResolveAssemblyReference.cache
+E:\Archived\Back-Up\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\VimeoConsoleUpload.exe.config
+E:\Archived\Back-Up\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\obj\Release\VimeoConsoleUpload.exe
+E:\Archived\Back-Up\VimeoConsoleUpload 3-11-16\VimeoConsoleUpload\VimeoConsoleUpload\obj\Release\VimeoConsoleUpload.pdb
+C:\Users\M1\Desktop\Bravo Upload Apps\VimeoConsoleUpload 4-7-17\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\VimeoConsoleUpload.exe.config
+C:\Users\M1\Desktop\Bravo Upload Apps\VimeoConsoleUpload 4-7-17\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\VimeoConsoleUpload.exe
+C:\Users\M1\Desktop\Bravo Upload Apps\VimeoConsoleUpload 4-7-17\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\VimeoConsoleUpload.pdb
+C:\Users\M1\Desktop\Bravo Upload Apps\VimeoConsoleUpload 4-7-17\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\M1\Desktop\Bravo Upload Apps\VimeoConsoleUpload 4-7-17\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\DotNetOpenAuth.Core.dll
+C:\Users\M1\Desktop\Bravo Upload Apps\VimeoConsoleUpload 4-7-17\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\DotNetOpenAuth.Core.UI.dll
+C:\Users\M1\Desktop\Bravo Upload Apps\VimeoConsoleUpload 4-7-17\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\DotNetOpenAuth.InfoCard.dll
+C:\Users\M1\Desktop\Bravo Upload Apps\VimeoConsoleUpload 4-7-17\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\DotNetOpenAuth.InfoCard.UI.dll
+C:\Users\M1\Desktop\Bravo Upload Apps\VimeoConsoleUpload 4-7-17\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\DotNetOpenAuth.OAuth.Common.dll
+C:\Users\M1\Desktop\Bravo Upload Apps\VimeoConsoleUpload 4-7-17\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\M1\Desktop\Bravo Upload Apps\VimeoConsoleUpload 4-7-17\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\DotNetOpenAuth.OAuth.dll
+C:\Users\M1\Desktop\Bravo Upload Apps\VimeoConsoleUpload 4-7-17\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\DotNetOpenAuth.OAuth.ServiceProvider.dll
+C:\Users\M1\Desktop\Bravo Upload Apps\VimeoConsoleUpload 4-7-17\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\DotNetOpenAuth.OAuth2.AuthorizationServer.dll
+C:\Users\M1\Desktop\Bravo Upload Apps\VimeoConsoleUpload 4-7-17\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\DotNetOpenAuth.OAuth2.Client.dll
+C:\Users\M1\Desktop\Bravo Upload Apps\VimeoConsoleUpload 4-7-17\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\DotNetOpenAuth.OAuth2.Client.UI.dll
+C:\Users\M1\Desktop\Bravo Upload Apps\VimeoConsoleUpload 4-7-17\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\DotNetOpenAuth.OAuth2.ClientAuthorization.dll
+C:\Users\M1\Desktop\Bravo Upload Apps\VimeoConsoleUpload 4-7-17\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\DotNetOpenAuth.OAuth2.dll
+C:\Users\M1\Desktop\Bravo Upload Apps\VimeoConsoleUpload 4-7-17\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\DotNetOpenAuth.OAuth2.ResourceServer.dll
+C:\Users\M1\Desktop\Bravo Upload Apps\VimeoConsoleUpload 4-7-17\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\DotNetOpenAuth.OpenId.dll
+C:\Users\M1\Desktop\Bravo Upload Apps\VimeoConsoleUpload 4-7-17\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\DotNetOpenAuth.OpenId.Provider.dll
+C:\Users\M1\Desktop\Bravo Upload Apps\VimeoConsoleUpload 4-7-17\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\DotNetOpenAuth.OpenId.Provider.UI.dll
+C:\Users\M1\Desktop\Bravo Upload Apps\VimeoConsoleUpload 4-7-17\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\M1\Desktop\Bravo Upload Apps\VimeoConsoleUpload 4-7-17\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\DotNetOpenAuth.OpenId.RelyingParty.UI.dll
+C:\Users\M1\Desktop\Bravo Upload Apps\VimeoConsoleUpload 4-7-17\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\DotNetOpenAuth.OpenId.UI.dll
+C:\Users\M1\Desktop\Bravo Upload Apps\VimeoConsoleUpload 4-7-17\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\DotNetOpenAuth.OpenIdInfoCard.UI.dll
+C:\Users\M1\Desktop\Bravo Upload Apps\VimeoConsoleUpload 4-7-17\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\DotNetOpenAuth.OpenIdOAuth.dll
+C:\Users\M1\Desktop\Bravo Upload Apps\VimeoConsoleUpload 4-7-17\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\Google.Apis.Auth.dll
+C:\Users\M1\Desktop\Bravo Upload Apps\VimeoConsoleUpload 4-7-17\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\Google.Apis.Auth.PlatformServices.dll
+C:\Users\M1\Desktop\Bravo Upload Apps\VimeoConsoleUpload 4-7-17\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\Google.Apis.Core.dll
+C:\Users\M1\Desktop\Bravo Upload Apps\VimeoConsoleUpload 4-7-17\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\Google.Apis.dll
+C:\Users\M1\Desktop\Bravo Upload Apps\VimeoConsoleUpload 4-7-17\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\Google.Apis.Oauth2.v2.dll
+C:\Users\M1\Desktop\Bravo Upload Apps\VimeoConsoleUpload 4-7-17\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\Google.Apis.PlatformServices.dll
+C:\Users\M1\Desktop\Bravo Upload Apps\VimeoConsoleUpload 4-7-17\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\log4net.dll
+C:\Users\M1\Desktop\Bravo Upload Apps\VimeoConsoleUpload 4-7-17\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\Microsoft.Threading.Tasks.dll
+C:\Users\M1\Desktop\Bravo Upload Apps\VimeoConsoleUpload 4-7-17\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\M1\Desktop\Bravo Upload Apps\VimeoConsoleUpload 4-7-17\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\M1\Desktop\Bravo Upload Apps\VimeoConsoleUpload 4-7-17\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\Newtonsoft.Json.dll
+C:\Users\M1\Desktop\Bravo Upload Apps\VimeoConsoleUpload 4-7-17\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\RestSharp.dll
+C:\Users\M1\Desktop\Bravo Upload Apps\VimeoConsoleUpload 4-7-17\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\System.Net.Http.Extensions.dll
+C:\Users\M1\Desktop\Bravo Upload Apps\VimeoConsoleUpload 4-7-17\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\System.Net.Http.Primitives.dll
+C:\Users\M1\Desktop\Bravo Upload Apps\VimeoConsoleUpload 4-7-17\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\VimeoDotNet.dll
+C:\Users\M1\Desktop\Bravo Upload Apps\VimeoConsoleUpload 4-7-17\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\Zlib.Portable.dll
+C:\Users\M1\Desktop\Bravo Upload Apps\VimeoConsoleUpload 4-7-17\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\Org.Mentalis.Security.Cryptography.dll
+C:\Users\M1\Desktop\Bravo Upload Apps\VimeoConsoleUpload 4-7-17\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\Mono.Math.dll
+C:\Users\M1\Desktop\Bravo Upload Apps\VimeoConsoleUpload 4-7-17\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\BouncyCastle.Crypto.pdb
+C:\Users\M1\Desktop\Bravo Upload Apps\VimeoConsoleUpload 4-7-17\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\DotNetOpenAuth.Core.xml
+C:\Users\M1\Desktop\Bravo Upload Apps\VimeoConsoleUpload 4-7-17\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\DotNetOpenAuth.Core.UI.xml
+C:\Users\M1\Desktop\Bravo Upload Apps\VimeoConsoleUpload 4-7-17\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\DotNetOpenAuth.InfoCard.xml
+C:\Users\M1\Desktop\Bravo Upload Apps\VimeoConsoleUpload 4-7-17\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\DotNetOpenAuth.InfoCard.UI.xml
+C:\Users\M1\Desktop\Bravo Upload Apps\VimeoConsoleUpload 4-7-17\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\DotNetOpenAuth.OAuth.xml
+C:\Users\M1\Desktop\Bravo Upload Apps\VimeoConsoleUpload 4-7-17\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\DotNetOpenAuth.OAuth.Common.xml
+C:\Users\M1\Desktop\Bravo Upload Apps\VimeoConsoleUpload 4-7-17\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\M1\Desktop\Bravo Upload Apps\VimeoConsoleUpload 4-7-17\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\DotNetOpenAuth.OAuth.ServiceProvider.xml
+C:\Users\M1\Desktop\Bravo Upload Apps\VimeoConsoleUpload 4-7-17\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\DotNetOpenAuth.OAuth2.xml
+C:\Users\M1\Desktop\Bravo Upload Apps\VimeoConsoleUpload 4-7-17\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\DotNetOpenAuth.OAuth2.AuthorizationServer.xml
+C:\Users\M1\Desktop\Bravo Upload Apps\VimeoConsoleUpload 4-7-17\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\DotNetOpenAuth.OAuth2.Client.xml
+C:\Users\M1\Desktop\Bravo Upload Apps\VimeoConsoleUpload 4-7-17\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\DotNetOpenAuth.OAuth2.Client.UI.xml
+C:\Users\M1\Desktop\Bravo Upload Apps\VimeoConsoleUpload 4-7-17\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\DotNetOpenAuth.OAuth2.ClientAuthorization.xml
+C:\Users\M1\Desktop\Bravo Upload Apps\VimeoConsoleUpload 4-7-17\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\DotNetOpenAuth.OAuth2.ResourceServer.xml
+C:\Users\M1\Desktop\Bravo Upload Apps\VimeoConsoleUpload 4-7-17\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\DotNetOpenAuth.OpenId.xml
+C:\Users\M1\Desktop\Bravo Upload Apps\VimeoConsoleUpload 4-7-17\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\DotNetOpenAuth.OpenId.Provider.xml
+C:\Users\M1\Desktop\Bravo Upload Apps\VimeoConsoleUpload 4-7-17\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\DotNetOpenAuth.OpenId.Provider.UI.xml
+C:\Users\M1\Desktop\Bravo Upload Apps\VimeoConsoleUpload 4-7-17\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\M1\Desktop\Bravo Upload Apps\VimeoConsoleUpload 4-7-17\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\DotNetOpenAuth.OpenId.RelyingParty.UI.xml
+C:\Users\M1\Desktop\Bravo Upload Apps\VimeoConsoleUpload 4-7-17\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\DotNetOpenAuth.OpenId.UI.xml
+C:\Users\M1\Desktop\Bravo Upload Apps\VimeoConsoleUpload 4-7-17\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\DotNetOpenAuth.OpenIdInfoCard.UI.xml
+C:\Users\M1\Desktop\Bravo Upload Apps\VimeoConsoleUpload 4-7-17\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\DotNetOpenAuth.OpenIdOAuth.xml
+C:\Users\M1\Desktop\Bravo Upload Apps\VimeoConsoleUpload 4-7-17\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\Google.Apis.pdb
+C:\Users\M1\Desktop\Bravo Upload Apps\VimeoConsoleUpload 4-7-17\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\Google.Apis.xml
+C:\Users\M1\Desktop\Bravo Upload Apps\VimeoConsoleUpload 4-7-17\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\Google.Apis.Auth.pdb
+C:\Users\M1\Desktop\Bravo Upload Apps\VimeoConsoleUpload 4-7-17\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\Google.Apis.Auth.xml
+C:\Users\M1\Desktop\Bravo Upload Apps\VimeoConsoleUpload 4-7-17\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\Google.Apis.Auth.PlatformServices.pdb
+C:\Users\M1\Desktop\Bravo Upload Apps\VimeoConsoleUpload 4-7-17\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\Google.Apis.Auth.PlatformServices.xml
+C:\Users\M1\Desktop\Bravo Upload Apps\VimeoConsoleUpload 4-7-17\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\Google.Apis.Core.pdb
+C:\Users\M1\Desktop\Bravo Upload Apps\VimeoConsoleUpload 4-7-17\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\Google.Apis.Core.xml
+C:\Users\M1\Desktop\Bravo Upload Apps\VimeoConsoleUpload 4-7-17\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\Google.Apis.Oauth2.v2.pdb
+C:\Users\M1\Desktop\Bravo Upload Apps\VimeoConsoleUpload 4-7-17\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\Google.Apis.Oauth2.v2.xml
+C:\Users\M1\Desktop\Bravo Upload Apps\VimeoConsoleUpload 4-7-17\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\Google.Apis.PlatformServices.pdb
+C:\Users\M1\Desktop\Bravo Upload Apps\VimeoConsoleUpload 4-7-17\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\Google.Apis.PlatformServices.xml
+C:\Users\M1\Desktop\Bravo Upload Apps\VimeoConsoleUpload 4-7-17\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\log4net.xml
+C:\Users\M1\Desktop\Bravo Upload Apps\VimeoConsoleUpload 4-7-17\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\Microsoft.Threading.Tasks.xml
+C:\Users\M1\Desktop\Bravo Upload Apps\VimeoConsoleUpload 4-7-17\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\M1\Desktop\Bravo Upload Apps\VimeoConsoleUpload 4-7-17\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\M1\Desktop\Bravo Upload Apps\VimeoConsoleUpload 4-7-17\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\Newtonsoft.Json.xml
+C:\Users\M1\Desktop\Bravo Upload Apps\VimeoConsoleUpload 4-7-17\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\RestSharp.xml
+C:\Users\M1\Desktop\Bravo Upload Apps\VimeoConsoleUpload 4-7-17\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\System.Net.Http.Extensions.xml
+C:\Users\M1\Desktop\Bravo Upload Apps\VimeoConsoleUpload 4-7-17\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\System.Net.Http.Primitives.xml
+C:\Users\M1\Desktop\Bravo Upload Apps\VimeoConsoleUpload 4-7-17\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\VimeoDotNet.pdb
+C:\Users\M1\Desktop\Bravo Upload Apps\VimeoConsoleUpload 4-7-17\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\VimeoDotNet.xml
+C:\Users\M1\Desktop\Bravo Upload Apps\VimeoConsoleUpload 4-7-17\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\Zlib.Portable.xml
+C:\Users\M1\Desktop\Bravo Upload Apps\VimeoConsoleUpload 4-7-17\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\Org.Mentalis.Security.Cryptography.xml
+C:\Users\M1\Desktop\Bravo Upload Apps\VimeoConsoleUpload 4-7-17\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\Mono.Math.xml
+C:\Users\M1\Desktop\Bravo Upload Apps\VimeoConsoleUpload 4-7-17\VimeoConsoleUpload\VimeoConsoleUpload\obj\Release\VimeoConsoleUpload.exe
+C:\Users\M1\Desktop\Bravo Upload Apps\VimeoConsoleUpload 4-7-17\VimeoConsoleUpload\VimeoConsoleUpload\obj\Release\VimeoConsoleUpload.pdb
+C:\Users\M1\Desktop\VimeoConsoleUpload\VimeoConsoleUpload\VimeoConsoleUpload\bin\Release\VimeoConsoleUpload.exe.config
+C:\Users\M1\Desktop\VimeoConsoleUpload\VimeoConsoleUpload\VimeoConsoleUpload\obj\Release\VimeoConsoleUpload.exe
+C:\Users\M1\Desktop\VimeoConsoleUpload\VimeoConsoleUpload\VimeoConsoleUpload\obj\Release\VimeoConsoleUpload.pdb
