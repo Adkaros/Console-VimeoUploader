@@ -328,7 +328,7 @@ namespace VimeoConsoleUpload
                 var values = new Dictionary<string, string>
                 {
                     {"action", "create_user"},
-                    {"key", "75idf.jnjKel"},
+                    {"key", "KEY"},
                     {"name", _name},
                     {"email", _email},
                     {"video_name", _video_name}
