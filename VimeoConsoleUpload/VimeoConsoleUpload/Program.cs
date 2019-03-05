@@ -41,7 +41,7 @@ namespace VimeoConsoleUpload
 
         static string userDataFile = "C:\\test/userdata.txt";
 
-        public static string accessToken = "9a96db0eed0b820c74f68c856190dba5";
+        public static string accessToken = "TOKEN";
         public static string authorizeURL = "https://api.vimeo.com/oauth/authorize";
         public static string accessTokenURL = "https://api.vimeo.com/oauth/access_token";
 
@@ -50,7 +50,7 @@ namespace VimeoConsoleUpload
         static string URL_update_local { get { return "http://" + ip + "/UpdateUser.php?"; } }
         static string URL_SyncDatabase { get { return "http://" + ip + "/SyncTable.php?table=1_" + groupNumber; } }
 
-        static string secretKey = "mySecretKey";
+        static string secretKey = "KEY";
         static string secretKeyHash = "";
 
         static string lastUserId = "";
